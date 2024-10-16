@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "230567985409",
+    "project_id": "infinity-670ac",
+    "storage_bucket": "infinity-670ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230567985409:android:a1b99ece6f81fa5bd1db00",
+        "android_client_info": {
+          "package_name": "com.firstLogicMetaLab.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230567985409-h7u0vuef98ll12anml3oiosl5v4fr1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSHuIm4yhiu6I6T7FPD4V5K6A_6JYiyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230567985409-h7u0vuef98ll12anml3oiosl5v4fr1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230567985409:android:2ae3ffe84b372320d1db00",
+        "android_client_info": {
+          "package_name": "com.ralfiz.bcaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230567985409-h7u0vuef98ll12anml3oiosl5v4fr1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSHuIm4yhiu6I6T7FPD4V5K6A_6JYiyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230567985409-h7u0vuef98ll12anml3oiosl5v4fr1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
